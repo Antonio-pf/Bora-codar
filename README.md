@@ -13,8 +13,8 @@ Pode ajudar para escolher aquele filme na hora da dúvida.
 
 
 ## Documentação da API
-Foi utilizado a API do [TMDB](
-[TMDB](https://developer.themoviedb.org/docs)).
+Foi utilizado a API do [TMDB](https://developer.themoviedb.org/docs).
+
 
 <!--
 #### Retorna todos os itens
