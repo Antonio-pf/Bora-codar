@@ -16,7 +16,10 @@ body {
 }
 button {
     font-family: 'Outfit', sans-serif;
+    cursor: pointer;
 }
+
+
 
 .card {
     display: flex;
@@ -122,6 +125,8 @@ header button {
 .poster>img {
     height: 289px;
     width: 194px;
+    border-radius: 3px;
+    
 }
 
 .duracao, .ano {
